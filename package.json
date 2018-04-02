@@ -1,0 +1,22 @@
+{
+  "name": "node_with_webpack",
+  "version": "1.0.0",
+  "description": "webpack module incorporate with node ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayantan khan",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "load-json-file": "^4.0.0",
+    "lodash": "^4.17.5",
+    "webpack": "^4.4.1"
+  },
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^1.2.4",
+    "webpack-cli": "^2.0.13",
+    "webpack-merge": "^4.1.2"
+  }
+}
